@@ -1,0 +1,259 @@
+{
+  "aktualisiert": "2026-11-13T06:34:12.600331+01:00",
+  "filialen": [
+    {
+      "markt": "Lidl",
+      "filiale": "Murr",
+      "adresse": "Im Langen Feld 20",
+      "url": "https://www.lidl.de/s/de-DE/filialen/murr/im-langen-feld-20/",
+      "angebote": [],
+      "status": "abgerufen",
+      "hinweis": "Lidl-Angebotserkennung folgt",
+      "anzahl": 0
+    },
+    {
+      "markt": "Kaufland",
+      "filiale": "Steinheim",
+      "adresse": "Steinbeisstraße 15",
+      "url": "https://filiale.kaufland.de/service/filiale/steinheim-an-der-murr-2560.html",
+      "angebote": [
+        {
+          "produkt": "Dtsch. Speisekartoffeln",
+          "preis": 2.49,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=397851"
+        },
+        {
+          "produkt": "HARIBO Fruchtgummis oder Lakritze",
+          "preis": 0.65,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01493159"
+        },
+        {
+          "produkt": "WIESBAUER Österr. Wurstspezialitäten",
+          "preis": 1.29,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00112011"
+        },
+        {
+          "produkt": "RÜGENWALDER MÜHLE Teewurst oder Leberwurst",
+          "preis": 1.49,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00146852"
+        },
+        {
+          "produkt": "GIOVANNI RANA Fertiggericht",
+          "preis": 2.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20796110"
+        },
+        {
+          "produkt": "ORIGINAL WAGNER Die Backfrische oder Big City Pizza",
+          "preis": 3.73,
+          "card_preis": 1.66,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00809040"
+        },
+        {
+          "produkt": "CAPRI-SUN Fruchtsaftgetränk",
+          "preis": 3.29,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02005209"
+        },
+        {
+          "produkt": "RAMAZZOTTI Ital. Likör oder Arancia Alkohlfrei",
+          "preis": 8.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02249712"
+        },
+        {
+          "produkt": "BACARDI Rum oder Rum-Spirituose",
+          "preis": 14.28,
+          "card_preis": 9.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00970065"
+        },
+        {
+          "produkt": "DOPPIO PASSO Primitivo IGT, Grillo DOC oder Alkoholfrei",
+          "preis": 4.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00911514"
+        },
+        {
+          "produkt": "HENKELL Piccolo-Sekt",
+          "preis": 1.11,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01922806"
+        },
+        {
+          "produkt": "LILLET Weinaperitif",
+          "preis": 13.32,
+          "card_preis": 9.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01985274"
+        },
+        {
+          "produkt": "BECK'S Pils oder Gold",
+          "preis": 9.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01453392"
+        },
+        {
+          "produkt": "FELIX Katzennahrung",
+          "preis": 3.27,
+          "card_preis": 3.33,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01234429"
+        },
+        {
+          "produkt": "PERSIL Waschmittel",
+          "preis": 15.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20625763"
+        },
+        {
+          "produkt": "SOMAT Geschirrreiniger XXL",
+          "preis": 6.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20873113"
+        },
+        {
+          "produkt": "SCHWARZKOPF Taft Haarlack, -spray oder Schaumfestiger",
+          "preis": 2.5,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01146805"
+        },
+        {
+          "produkt": "LEIBNIZ Minis",
+          "preis": 1.49,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02804540"
+        },
+        {
+          "produkt": "MANNER Waffel-Schnitten",
+          "preis": 2.49,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02813258"
+        },
+        {
+          "produkt": "MONSTER Energy Drink",
+          "preis": 0.79,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02063671"
+        },
+        {
+          "produkt": "Span. Clementinen XXL",
+          "preis": 3.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=373027"
+        },
+        {
+          "produkt": "Span./ital. Broccoli",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=370726"
+        },
+        {
+          "produkt": "IGLO Fischstäbchen",
+          "preis": 5.54,
+          "card_preis": 2.49,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00804377"
+        },
+        {
+          "produkt": "IGLO Filegro",
+          "preis": 9.96,
+          "card_preis": 2.49,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00805374"
+        },
+        {
+          "produkt": "KINDER Pingui",
+          "preis": 9.25,
+          "card_preis": 2.22,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00424937"
+        },
+        {
+          "produkt": "RAMA Cremefine oder vegane Creme",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00405019"
+        },
+        {
+          "produkt": "K-CLASSIC Back-Camembert oder Mozzarella-Sticks",
+          "preis": 2.49,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20865667"
+        },
+        {
+          "produkt": "FOL EPI Franz. Schnittkäse",
+          "preis": 1.39,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00505982"
+        },
+        {
+          "produkt": "KERRYGOLD Orig. irisch. Pizzakäse oder Cheddar",
+          "preis": 1.49,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01155984"
+        },
+        {
+          "produkt": "ALMETTE Alpenfrischkäse",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00502302"
+        },
+        {
+          "produkt": "MAGGI 5-Minuten-Terrine oder Magic Asia Noodles",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01106954"
+        },
+        {
+          "produkt": "K-CLASSIC Cashewkerne",
+          "preis": 1.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20733622"
+        },
+        {
+          "produkt": "K-CLASSIC Walnusskerne",
+          "preis": 1.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20736636"
+        },
+        {
+          "produkt": "NESCAFÉ Gold",
+          "preis": 29.95,
+          "card_preis": 5.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02427904"
+        },
+        {
+          "produkt": "TUC Bake Rolls oder Mini",
+          "preis": 1.0,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01534402"
+        },
+        {
+          "produkt": "ALPIA Schokolade",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02522860"
+        },
+        {
+          "produkt": "BALISTO oder TWIX Schokoriegel",
+          "preis": 1.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20689523"
+        },
+        {
+          "produkt": "KINDER Riegel",
+          "preis": 3.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02556178"
+        },
+        {
+          "produkt": "DUPLO Waffel-Schokoriegel",
+          "preis": 3.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02501524"
+        }
+      ],
+      "status": "abgerufen",
+      "anzahl": 39
+    }
+  ]
+}
