@@ -1,5 +1,5 @@
 {
-  "aktualisiert": "2026-11-22T00:35:17.989851+01:00",
+  "aktualisiert": "2026-11-23T00:38:38.121206+01:00",
   "filialen": [
     {
       "markt": "Lidl",
@@ -18,208 +18,208 @@
       "url": "https://filiale.kaufland.de/service/filiale/steinheim-an-der-murr-2560.html",
       "angebote": [
         {
-          "produkt": "Niederl./belg. Cocktailrispentomaten",
+          "produkt": "Ital./peruan.Tafeltrauben, hell",
           "preis": 1.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01276651"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00399543"
         },
         {
-          "produkt": "Span. Paprika, rot",
-          "preis": 1.39,
+          "produkt": "Span. Orangen",
+          "preis": 4.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00370973"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01352937"
         },
         {
-          "produkt": "MEICA Curry King",
-          "preis": 1.79,
+          "produkt": "Marokk. Miniromatomaten",
+          "preis": 0.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01202736"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00379461"
         },
         {
-          "produkt": "Junge Ente",
-          "preis": 3.99,
+          "produkt": "Ungar./poln. Gänsebrust",
+          "preis": 14.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01533335"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20877828"
         },
         {
-          "produkt": "ORIGINAL WAGNER Rustipani Ofenbrot oder Air-Fryer-Snack",
-          "preis": 1.79,
+          "produkt": "GUSTAVO GUSTO Pizza",
+          "preis": 3.33,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00960315"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01252432"
         },
         {
-          "produkt": "MÖVENPICK Fruchtjoghurt",
-          "preis": 0.69,
+          "produkt": "COPPENRATH & WIESE Cafeteria fein & sahnig",
+          "preis": 3.49,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00409599"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00843324"
         },
         {
-          "produkt": "KINDER Choco fresh oder Paradiso",
-          "preis": 13.71,
-          "card_preis": 1.59,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00493817"
+          "produkt": "ESCAL King Prawns Provençal oder Natur",
+          "preis": 2.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00801142"
         },
         {
-          "produkt": "YFOOD This is Food Trinkmahlzeit",
-          "preis": 5.58,
-          "card_preis": 2.79,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20683598"
+          "produkt": "EHRMANN Almighurt",
+          "preis": 1.98,
+          "card_preis": 0.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00421123"
         },
         {
-          "produkt": "GÉRAMONT Weichkäse",
+          "produkt": "MÜLLER Doppel-Decker oder Wackelpudding",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00403347"
+        },
+        {
+          "produkt": "EHRMANN High Protein Pudding, Drink oder Joghurt",
+          "preis": 0.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01215602"
+        },
+        {
+          "produkt": "WEIHENSTEPHAN Butter oder Die Streichzarte",
+          "preis": 4.6,
+          "card_preis": 1.15,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00650002"
+        },
+        {
+          "produkt": "LANDLIEBE Landkäse oder QUÄSE Protein-Käsescheiben",
+          "preis": 9.27,
+          "card_preis": 1.39,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01057422"
+        },
+        {
+          "produkt": "K-CLASSIC Gouda jung",
+          "preis": 2.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01383309"
+        },
+        {
+          "produkt": "BABYBEL Mini",
+          "preis": 2.89,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20982115"
+        },
+        {
+          "produkt": "BAHLSEN Comtess Kuchen",
+          "preis": 1.5,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00886341"
+        },
+        {
+          "produkt": "THOMY Reines Sonnenblumenöl",
           "preis": 2.49,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00510784"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=03963766"
         },
         {
-          "produkt": "LE RUSTIQUE Raclette Käsescheiben",
-          "preis": 4.44,
+          "produkt": "MELITTA Kaffee",
+          "preis": 4.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00500199"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02403277"
         },
         {
-          "produkt": "HOCHLAND Schmelzkäse oder Käsesauce",
-          "preis": 1.34,
+          "produkt": "TASSIMO Kaffee-Kapseln",
+          "preis": 14.89,
+          "card_preis": 3.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02401210"
+        },
+        {
+          "produkt": "LORENZ Crunchips",
+          "preis": 0.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01145959"
-        },
-        {
-          "produkt": "LEERDAMMER Holl. Schnittkäse",
-          "preis": 1.29,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01507953"
-        },
-        {
-          "produkt": "WASA Knäckebrot",
-          "preis": 1.29,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02965101"
-        },
-        {
-          "produkt": "7 DAYS Croissants",
-          "preis": 1.79,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02903460"
-        },
-        {
-          "produkt": "ERASCO Eintopf",
-          "preis": 2.19,
-          "card_preis": 1.75,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01101906"
-        },
-        {
-          "produkt": "KELLOGG'S Cerealien",
-          "preis": 5.58,
-          "card_preis": 2.79,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20686557"
-        },
-        {
-          "produkt": "DALLMAYR Prodomo",
-          "preis": 11.98,
-          "card_preis": 5.99,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02433639"
-        },
-        {
-          "produkt": "NESCAFÉ Classic",
-          "preis": 5.99,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=00852307"
-        },
-        {
-          "produkt": "NESCAFÉ Dolce Gusto Kapseln",
-          "preis": 3.99,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01271663"
-        },
-        {
-          "produkt": "PRINGLES Chips",
-          "preis": 8.06,
-          "card_preis": 1.49,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01472223"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20692278"
         },
         {
           "produkt": "MILKA Schokolade",
-          "preis": 0.88,
+          "preis": 2.59,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20787694"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20788942"
         },
         {
-          "produkt": "RAFFAELLO Kokos-Mandel-Konfekt",
-          "preis": 3.49,
+          "produkt": "FERRERO Rocher",
+          "preis": 13.3,
+          "card_preis": 2.66,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02727105"
+        },
+        {
+          "produkt": "MERCI Finest Selection Großpackung",
+          "preis": 13.73,
+          "card_preis": 5.49,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01248960"
+        },
+        {
+          "produkt": "DUPLO Waffel-Schokoriegel",
+          "preis": 2.22,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02700346"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02500924"
         },
         {
-          "produkt": "HANUTA Haselnuss-Schnitten",
-          "preis": 2.49,
+          "produkt": "KINDER Riegel",
+          "preis": 2.22,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01170216"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02500338"
         },
         {
-          "produkt": "KINDER Joy »Wonka«",
-          "preis": 49.5,
-          "card_preis": 0.99,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20966313"
+          "produkt": "KINDER Schoko-Bons",
+          "preis": 2.99,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02701146"
         },
         {
-          "produkt": "LINDT Weihnachtsmann",
+          "produkt": "MILKA Weihnachtsmann",
+          "preis": 1.11,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01287904"
+        },
+        {
+          "produkt": "APEROL Aperitivo",
+          "preis": 13.56,
+          "card_preis": 9.49,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02211944"
+        },
+        {
+          "produkt": "JÄGERMEISTER Kräuterlikör",
+          "preis": 15.7,
+          "card_preis": 10.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02263952"
+        },
+        {
+          "produkt": "ROTKÄPPCHEN Sekt",
+          "preis": 2.75,
+          "card_preis": null,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01941038"
+        },
+        {
+          "produkt": "FÜRST VON METTERNICH Sekt",
           "preis": 1.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02637288"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01927748"
         },
         {
-          "produkt": "COCA-COLA, FANTA, SPRITE oder MEZZO MIX Erfrischungsgetränke",
-          "preis": 10.99,
+          "produkt": "HASSERÖDER Premium Pils",
+          "preis": 0.8,
+          "card_preis": 7.99,
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01453428"
+        },
+        {
+          "produkt": "PURINA ONE Katzennahrung",
+          "preis": 2.5,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02070183"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01511561"
         },
         {
-          "produkt": "GEROLSTEINER Mineralwasser",
-          "preis": 6.99,
+          "produkt": "PERSIL Color- oder Vollwaschmittel",
+          "preis": 15.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01447857"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20620263"
         },
         {
-          "produkt": "HAVANA CLUB Original 3 Años o. Especial",
-          "preis": 9.99,
+          "produkt": "KUSCHELWEICH Weichspüler Luxury Moments oder Oriental",
+          "preis": 1.99,
           "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02143857"
-        },
-        {
-          "produkt": "BALLANTINE'S Finest Blended Scotch Whisky",
-          "preis": 9.99,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=02180719"
-        },
-        {
-          "produkt": "MUMM Jahrgangssekt",
-          "preis": 3.79,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01904689"
-        },
-        {
-          "produkt": "SPATEN Münchner Hell",
-          "preis": 1.4,
-          "card_preis": 13.99,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01453462"
-        },
-        {
-          "produkt": "FRANZISKANER Premium-Weißbier",
-          "preis": 14.99,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=01453409"
-        },
-        {
-          "produkt": "DASH Voll- oder Colorwaschmittel",
-          "preis": 7.99,
-          "card_preis": null,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20905821"
-        },
-        {
-          "produkt": "LENOR Voll- oder Colorwaschmittel XXL",
-          "preis": 0.19,
-          "card_preis": 14.99,
-          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20933828"
+          "quelle": "/angebote/uebersicht.html?kloffer-category=135_Foodknueller&kloffer-articleID=20957019"
         }
       ],
       "status": "abgerufen",
